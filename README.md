@@ -126,7 +126,7 @@ Snarveier overstyres under «Properties» (`⌘ + ,`) → «Keymap».
 
 - `⌘ + ⌥ + U` vis arvehierarki (UML-diagram)
 
-- `⌘ + Y` vis implementasjon av metode
+- `⌘ + Y` vis implementasjon av metode ⚠️ _Quick Definition_
 
 - `⌘ + B` gå til implementasjon av metode
 
@@ -154,7 +154,7 @@ Snarveier overstyres under «Properties» (`⌘ + ,`) → «Keymap».
 
 ### Plugins
 
-- `⌃ + ⇧ + m` manipuler tekst ([String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation))
+- `⌃ + ⇧ + m` manipuler tekst ([String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)) ⚠️ _Popup String Manipulation_
 
 - `⌥ + F2` bytt prosjekt ([Frame Switcher](https://plugins.jetbrains.com/plugin/7138-frame-switcher))
 
