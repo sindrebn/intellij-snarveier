@@ -159,3 +159,4 @@ Snarveier overstyres under «Properties» (`⌘ + ,`) → «Keymap».
 - `⌥ + F2` bytt prosjekt ([Frame Switcher](https://plugins.jetbrains.com/plugin/7138-frame-switcher))
 
 - `⌥ + ⇧ + D` skru av og på visning av snarveier ([Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant))
+- [Key Promoter](http://plugins.jetbrains.com/search?correctionAllowed=true&pr=&orderBy=&search=key+promoter) Nyttig plugin i tre varianter som sier i fra dersom det eksisterer en hurtigtast for en operasjon gjort med musa.
